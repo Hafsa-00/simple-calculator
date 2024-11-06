@@ -85,7 +85,7 @@ export default function CalculatorComponent() {
         <div className="flex flex-col items-center justify-center h-screen bg-gray-100 dark:bg-gray-900">
             <Card className="w-full max-w-md p-6 bg-white dark:bg-gray-800 shadow-lg rounded-lg">
                 <CardHeader>
-                    <CardTitle className="text-2xl font-bold">Enhanced Calculator</CardTitle>
+                    <CardTitle className="text-2xl font-bold"> Calculator</CardTitle>
                 </CardHeader>
                 <CardContent className="space-y-4">
                     <div className="grid grid-cols-2 gap-4">
